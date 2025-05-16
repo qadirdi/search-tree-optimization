@@ -10,7 +10,6 @@ This project implements two different approaches to find optimal paths in a sear
 ├── README.md
 ├── requirements.txt
 ├── search_tree.py      # Recursive search implementation
-├── dp_search.py        # Dynamic programming implementation
 ├── gain.csv           # Input data file
 └── search_snapshots/  # Directory for search visualization snapshots
 ```
